@@ -1,0 +1,50 @@
+.navbar { 
+    background-color: #1a1919;
+    justify-content: space-between;
+    
+}
+
+footer.card-footer { 
+    padding: 2%;
+}
+footer .card-footer .container-fluid{
+    padding: 0%;
+}
+footer .card-footer .container-fluid .col-lg-4{
+    width: 100%;
+}
+footer .card-footer .container-fluid .col-lg-4 .navbar-nav{
+    display: flex;
+    background-color: #1a1919;
+    flex-direction: row;
+    justify-content: space-evenly;
+    width: 100%;
+}
+
+footer .card-footer .container-fluid .col-lg-4 .navbar-nav .nav-item{
+    width: 10%;
+}
+.container{
+    display:fluid;
+    
+}
+.nav-link{
+    font-style: italic; color: antiquewhite;
+}
+
+.carousel-text{
+    text-align-last: right;
+    color: #fafcf8;
+
+}
+.button-text{
+    border-bottom: #dfe9c7;
+    text-decoration-color: azure;
+}
+.text-titulo{
+    text-align: center;
+}
+
+.text-tarjeta{
+    color: #dfe9c7;
+}
